@@ -1,22 +1,24 @@
-# Hi 👋, I'm Vansh Gupta
+<h1 align="center">Hi 👋, I'm Vansh Gupta</h1>
 
-### Python Developer | Data Analyst | MCA Student
+<h3 align="center">Data Analyst | Python Developer | MCA Student</h3>
 
-💡 Passionate about building web applications, analyzing data, and creating AI-powered solutions using Python.
+<p align="center">
+Passionate about transforming data into actionable insights and building real-world applications using Python.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Currently pursuing Master of Computer Applications (MCA)
+🎓 Pursuing Master of Computer Applications (MCA)
 
-💻 Python Developer with experience in Flask-based web applications
+📊 Aspiring Data Analyst with hands-on experience in Data Cleaning, EDA, and Data Visualization
 
-📊 Skilled in Data Analysis using Pandas and NumPy
+💻 Python Developer experienced in building Flask-based applications
 
-🤖 Interested in Artificial Intelligence, Machine Learning, and Automation
+🤖 Exploring Machine Learning and AI-powered solutions
 
-🌱 Continuously learning and improving my development and analytical skills
+📈 Interested in Analytics, Business Intelligence, and Data Science
 
 📍 Ambala, Haryana, India
 
@@ -25,48 +27,80 @@
 ## 🛠️ Tech Stack
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### Data Analytics & Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+
+### Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ### Web Development
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-### Database
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🛒 Quick Cart – E-Commerce Web Application
-- Full-stack e-commerce application
-- User Authentication System
-- Shopping Cart Functionality
-- Flask Backend + Bootstrap Frontend
+### 📈 Sales Data Analysis Project
 
-### 📊 Sales Data Analysis
-- Data Cleaning & Preprocessing
-- Trend Analysis
-- Performance Insights
-- Built using Pandas and NumPy
+✔ Cleaned and processed sales datasets using Pandas and NumPy
+
+✔ Performed Exploratory Data Analysis (EDA)
+
+✔ Identified monthly trends and performance patterns
+
+✔ Built visualizations using Matplotlib and Seaborn
+
+✔ Generated actionable business insights
+
+---
 
 ### 🤖 AI Expense Tracker
-- Secure User Authentication
-- AI-Based Expense Categorization
-- Receipt OCR Integration
-- CSV/PDF Export
-- Interactive Dashboards
-- Bank Transaction Import System
+
+✔ Flask-based expense management application
+
+✔ AI-powered expense categorization using TF-IDF and Logistic Regression
+
+✔ Interactive dashboards and analytics
+
+✔ CSV/PDF export functionality
+
+✔ Bank transaction import with ~90% accuracy
+
+---
+
+### 🛒 Quick Cart – Full Stack E-Commerce Platform
+
+✔ User Authentication System
+
+✔ Shopping Cart Management
+
+✔ Flask Backend Development
+
+✔ Responsive Bootstrap Interface
 
 ---
 
@@ -78,27 +112,53 @@
 
 ---
 
-## 📈 Current Goals
+## 🌱 Currently Learning
 
-- Master Advanced Python Development
-- Learn Machine Learning & AI
-- Build Production-Level Flask Applications
-- Contribute to Open Source Projects
+- Advanced Data Analytics
+- Machine Learning
+- Statistical Analysis
+- Data Visualization
+- Real-World Data Science Projects
+
+---
+
+## 📊 Areas of Interest
+
+- Data Analytics
+- Data Science
+- Machine Learning
+- Business Intelligence
+- Python Development
+- AI Applications
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh3452&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh3452" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh%20Gupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vansh-gupta-6465a23a8)
+📧 Email: **11vanshgupta345@gmail.com**
 
-📧 Email: 11vanshgupta345@gmail.com
+💼 LinkedIn: **www.linkedin.com/in/vansh-gupta-6465a23a8**
 
----
-
-### 💬 Quote
-
-> "Consistency beats talent when talent doesn't work consistently."
+🐙 GitHub: **github.com/vansh3452**
 
 ---
 
-⭐ If you like my projects, feel free to explore my repositories and connect with me!
+## 💡 Career Objective
+
+Seeking opportunities as a **Data Analyst**, **Python Developer**, or **Entry-Level Data Scientist** where I can apply analytical thinking, programming skills, and data-driven problem-solving to create meaningful impact.
+
+---
+
+⭐ If you find my projects interesting, feel free to connect and collaborate!
