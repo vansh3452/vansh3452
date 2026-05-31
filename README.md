@@ -133,14 +133,14 @@ Passionate about transforming data into actionable insights and building real-wo
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh3452&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh3452&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh3452" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vansh3452&theme=tokyonight" />
 </p>
 
 ---
